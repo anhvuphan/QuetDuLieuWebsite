@@ -1,0 +1,9 @@
+langchain 
+langchain_ollama
+selenium
+beautifulsoup
+lxml
+openpyxl
+re
+pandas
+nltk
